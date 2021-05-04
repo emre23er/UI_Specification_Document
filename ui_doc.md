@@ -1,6 +1,6 @@
 # New User UI Specification Document
 ## 1.  Top Block
-    - New User Button : Has to add a new user to the table mentioned at **user list block**. After pressing new user there has to appear a **test user** at the table in **left block**.
+    - New User Button : Has to add a new user to the table mentioned at **user list block**. After pressing new user there has to appear a **test user** at the table in ** left block **.
     - Hide Disabled User Check Box : Hides users that are disabled at the table mentioned at **user list block**.
     - Save User Button : Saves user after filling the New User table mentioned at **New User block**.
 ## 2. User List Table
